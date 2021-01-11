@@ -45,7 +45,7 @@ window = Tk()
 # give it a title
 window.title("My GUI")
 # size our tkinter
-window.minsize(width=500, height=400)
+# window.minsize(width=500, height=400)
 
 # add padding
 window.config(padx=20, pady=20)
